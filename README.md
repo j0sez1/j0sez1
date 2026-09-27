@@ -1,4 +1,4 @@
-## Olá, sou o José Faria👋
+## Olá, sou o José👋
 
 - 🔭 Estudante de ADS
 
